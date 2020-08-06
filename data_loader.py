@@ -1,5 +1,4 @@
 import requests
-import requests.exceptions
 from datetime import date
 from database_handler import Person
 
